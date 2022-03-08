@@ -1,3 +1,5 @@
+
+```
 func main() {
 	// w
 	f := Open("asdf", "w")
@@ -20,3 +22,4 @@ func main() {
 		fmt.Println(i)
 	}
 }
+```
